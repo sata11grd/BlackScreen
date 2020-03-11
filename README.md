@@ -1,5 +1,5 @@
 # What is This?
-- Simple Black Screen App.
+Simple Black Screen App.
 
 # How to Use?
 1) Clone this repositry and build it your environment.
